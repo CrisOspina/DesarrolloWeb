@@ -1,6 +1,9 @@
 # DesarrolloWeb
 Curso desarrollo web completado - Platzi
 
+Web NO responsive:
+https://crisospina.github.io/DesarrolloWeb/
+
 Resumen
 
 * Desarrollo web
