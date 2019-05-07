@@ -4,7 +4,7 @@ Curso desarrollo web completado - Platzi
 Resumen
 
 * Desarrollo web
-** DOM
+** DOM = 
 DOM es el acrónimo de Document Object Model o Modelo de 
 documento, y es la manera en que se representa el contenido 
 del documento, de manera similar a un árbol de nodos.
@@ -27,8 +27,6 @@ En el nodo del documento está el DOM (Document Object Model),
 el modelo de objeto del documento, que representa el 
 contenido de la página.		
 
-
-/**********************************************************/
 
 Algunas de las etiquetas más conocidas y usadas son:
 
@@ -62,8 +60,6 @@ las hojas de calculo.
 ul y ol: listas de items.
 
 div: cualquier división para organizar el contenido.
-
-/**********************************************************/
 
 ** Atributos HTML
 Los atributos son valores agregados a las etiquetas (tags) 
@@ -131,7 +127,6 @@ un texto que se puede asociar con un input para darle
 mayor significado al campo, principalmente cuando no 
 se usa el atributo placeholder.		
 
-/**********************************************************/
 
 Para aplicar estilos a los componentes html, lo más común 
 y recomendable es hacerlo a través de clases que se asignan
@@ -154,7 +149,6 @@ OOCSS
 BEM
 Component CSS
 
-/**********************************************************/
 
 Hay varias unidades de medida con las que se puede trabajar
  en CSS: %, em, rem, px, pt, fr, vw, vh
@@ -184,7 +178,6 @@ rgba(0, 50, 70, 0.5) para obtener transparencia
 La menor unidad homogenea en color que forma parte de una 
 imagen digital.
 
-/**********************************************************/
 
 Inspector de elementos
 Para ver y depurar el código de una página html, el 
@@ -207,7 +200,6 @@ en tiempo real con JavaSsript, monitorear variables o
 eventos entre muchas otras tareas útiles para cualquier 
 desarrollador.
 
-/**********************************************************/
 
 Tipos de textos personalizados
 Los tipos de texto, también conocidos como tipos de letras 
@@ -237,7 +229,6 @@ la propioedad font-family indicamos al navegador, que
 debe intentar usar esa fuente en particular para darle 
 la apariencia tipográfica a los textos de ese elemento html
 
-/**********************************************************/
 
 Diferencias de las propiedades padding y margin:
 
